@@ -28,4 +28,9 @@ export default defineConfig({
       }
     }
   },
+  // GitHub Pages用のSPA設定
+  preview: {
+    port: 4173,
+    host: true
+  }
 }) 

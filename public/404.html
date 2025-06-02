@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <title>Prompt Navigator - AIプロンプト指示ワード集</title>
+    <script type="text/javascript">
+        // GitHub Pages SPA用のルーティング処理
+        // パスを取得してindex.htmlにリダイレクト
+        var pathToConvert = window.location.pathname.slice(1).split('/').slice(1).join('/');
+        var converted = pathToConvert ? ('/' + pathToConvert) : '';
+        window.history.replaceState(null, null, 
+            window.location.protocol + '//' + window.location.hostname + 
+            (window.location.port ? ':' + window.location.port : '') +
+            '/ai-prompt-playbook/' + '?p=' + converted + window.location.search
+        );
+        window.location.href = window.location.protocol + '//' + window.location.hostname + 
+            (window.location.port ? ':' + window.location.port : '') + '/ai-prompt-playbook/';
+    </script>
+</head>
+<body>
+    <div>Redirecting...</div>
+</body>
+</html> 
