@@ -2,7 +2,7 @@
 
 > 中級プログラマーがAI（ChatGPT、Claude等）に指示を出す際に役立つ「キーワード（指示ワード）」を10カテゴリに整理し、サクサク＆エモいUIで閲覧・コピーできるWebアプリ
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-username/prompt-navigator)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yamasakidaisuke/ai-prompt-playbook)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18.3-blue)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-purple)](https://vitejs.dev/)
@@ -19,7 +19,7 @@
 
 ## 🎥 デモ
 
-[🔗 Live Demo](https://your-username.github.io/prompt-navigator) 
+[🔗 Live Demo](https://yamasakidaisuke.github.io/ai-prompt-playbook/) 
 
 ## 📊 カテゴリ一覧
 
